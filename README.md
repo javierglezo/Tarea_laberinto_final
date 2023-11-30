@@ -1,1 +1,2 @@
 # Tarea_laberinto_final
+Tarea final del laberinto: Proyecto5 de python de Javier González. Programa que muestra un laberinto, y permite recorrerlo hasta llegar a la salida. Consta de dos módulos llamados **nuevo.py y launcher.py**.
